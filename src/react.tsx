@@ -1,6 +1,6 @@
 import { createContext, useContext, useEffect, useSyncExternalStore, type ReactNode } from 'react';
 
-import type { AuthClient, Session, User } from './client';
+import type { AuthClient, Session, User } from './client.js';
 
 const Context = createContext<AuthClient | null>(null);
 

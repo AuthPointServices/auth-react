@@ -1,8 +1,8 @@
 import { act, cleanup, render, screen } from '@testing-library/react';
 import { afterEach, describe, expect, it, vi } from 'vitest';
 
-import { createAuthClient, type AuthClient } from './client';
-import { AuthProvider, RequireAuth, useUser } from './react';
+import { createAuthClient, type AuthClient } from './client.js';
+import { AuthProvider, RequireAuth, useUser } from './react.js';
 
 afterEach(cleanup);
 
