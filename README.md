@@ -9,7 +9,7 @@ cada producto dibuja su menú de cuenta con su diseño.
 Cada versión se publica ya compilada en las releases del repo:
 
 ```sh
-pnpm add https://github.com/AuthPointServices/auth-react/releases/download/v0.1.0/authpoint-auth-react-0.1.0.tgz
+pnpm add https://github.com/AuthPointServices/auth-react/releases/download/v0.1.1/authpoint-auth-react-0.1.1.tgz
 ```
 
 ## Uso

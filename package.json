@@ -1,6 +1,6 @@
 {
   "name": "@authpoint/auth-react",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Sesión de auth-go en React: quién entró, entrar, salir y acciones de la cuenta.",
   "license": "MIT",
   "type": "module",
